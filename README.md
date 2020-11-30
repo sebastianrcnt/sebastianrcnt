@@ -26,7 +26,7 @@
 <p>
     <img src="https://img.shields.io/badge/Vim-20232A?style=flat-square&logo=vim&logoColor=59886b" />
     <img src="https://img.shields.io/badge/NeoVim-20232A?style=flat-square&logo=neovim&logoColor=a05344" />
-    <img src="https://img.shields.io/badge/Visual Studio Code-20232A?style=flat-square&logo=visual studio code&logoColor=3797a4" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-20232A?style=flat-square&logo=visual%20studio%20code&logoColor=3797a4" />
     <img src="https://img.shields.io/badge/Atom-20232A?style=flat-square&logo=atom&logoColor=8db596" />
-    <img src="https://img.shields.io/badge/Sublime Text-20232A?style=flat-square&logo=sublime text&logoColor=ffa62b" />
+    <img src="https://img.shields.io/badge/Sublime%20Text-20232A?style=flat-square&logo=sublime%20text&logoColor=ffa62b" />
 </p>
