@@ -1,8 +1,32 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey, nice to see you</h1>
 
-
-<p>Welcome to my GitHub! </br> I'm Sebastian, Fullstack developer from <img src="https://www.flaticon.com/svg/static/icons/svg/1999/1999610.svg" width="13"/> <b>Seoul, Korea</b>
-<h3>Things I code with</h3>
+<p>Welcome to my GitHub!</p>
+<p>I'm Sebastian, Fullstack developer from
+<img src="https://www.flaticon.com/svg/static/icons/svg/1999/1999610.svg" width="13" /> <b>Seoul, Korea</b>
+</p>
+<h3>My Progamming Languages</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/HTML-20232A?style=flat-square&logo=html5&logoColor=d35d6e" />
+    <img src="https://img.shields.io/badge/CSS-20232A?style=flat-square&logo=css3&logoColor=efb08c" />
+    <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=ffd369" />
+    <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=8bcdcd" />
+    <img src="https://img.shields.io/badge/Java-20232A?style=flat-square&logo=java&logoColor=red" />
+</p>
+<h3>I Use...</h3>
+<p>
+    <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=59886b" />
+    <img src="https://img.shields.io/badge/npm-20232A?style=flat-square&logo=npm&logoColor=red" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Redux-20232A?style=flat-square&logo=redux&logoColor=706897" />
+    <img src="https://img.shields.io/badge/Vue-20232A?style=flat-square&logo=vue.js&logoColor=5aa469" />
+    <img src="https://img.shields.io/badge/Flask-20232A?style=flat-square&logo=flask&logoColor=59886b" />
+</p>
+<h3>I Code With ...</h3>
+<p>
+    <img src="https://img.shields.io/badge/Vim-20232A?style=flat-square&logo=vim&logoColor=59886b" />
+    <img src="https://img.shields.io/badge/NeoVim-20232A?style=flat-square&logo=neovim&logoColor=a05344" />
+    <img src="https://img.shields.io/badge/Visual Studio Code-20232A?style=flat-square&logo=visual studio code&logoColor=3797a4" />
+    <img src="https://img.shields.io/badge/Atom-20232A?style=flat-square&logo=atom&logoColor=8db596" />
+    <img src="https://img.shields.io/badge/Sublime Text-20232A?style=flat-square&logo=sublime text&logoColor=ffa62b" />
 </p>
