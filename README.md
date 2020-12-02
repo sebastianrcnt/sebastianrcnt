@@ -4,7 +4,7 @@
 <p>I'm Sebastian, Fullstack developer from
 <img src="https://www.flaticon.com/svg/static/icons/svg/1999/1999610.svg" width="13" /> <b>Seoul, Korea</b>
 </p>
-<p>I'm currently majoring computer science from <a href="https://www.yonsei.ac.kr"><b>Yonsei University</b></a>
+<p>I'm currently majoring Computer Science from <a href="https://www.yonsei.ac.kr"><b>Yonsei University</b></a>
 </p>
 
 <h3>My Progamming Languages</h3>
